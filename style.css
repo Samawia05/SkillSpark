@@ -2,10 +2,10 @@
 /*       COLOR VARIABLES         */
 /* ============================= */
 :root {
-    --primary-color: #4e73df;      /* Blue */
-    --secondary-color: #1cc88a;    /* Green */
-    --accent-color: #f6c23e;       /* Yellow */
-    --dark-color: #2c3e50;         /* Dark Blue */
+    --primary-color: #4e73df;      
+    --secondary-color: #1cc88a;    
+    --accent-color: #f6c23e;       
+    --dark-color: #2c3e50;         
     --light-bg: #f8f9fc;
 }
 
@@ -17,9 +17,6 @@ body {
     font-family: 'Segoe UI', sans-serif;
 }
 
-/* ============================= */
-/*        NAVBAR                 */
-/* ============================= */
 .navbar {
     background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
 }
