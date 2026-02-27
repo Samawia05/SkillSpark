@@ -20,8 +20,7 @@ SkillSpark is an online platform where students learn tech skills.
 -Screenshots
 ![Home Page] (<img width="749" height="399" alt="Home Page png" src="https://github.com/user-attachments/assets/482c27b0-9ba7-43f1-bde4-96c521f9258d" />
 )
-![Course Page](<img width="754" height="410" alt="Course Page png" src="https://github.com/user-attachments/assets/8e2a8804-ae41-4090-aac9-ffd2e5c906f7" />
+![Courses Page](<img width="754" height="410" alt="Courses Page png" src="https://github.com/user-attachments/assets/7a9663a5-b6a8-4fc4-bd15-5c9a3a0adc6f" />
 )
-
 -Live Link
 (https://github.com/Samawia05/SkillSpark/edit/main/README.md)
